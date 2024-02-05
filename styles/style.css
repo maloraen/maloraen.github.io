@@ -1,0 +1,32 @@
+html {
+    font-size: 10px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    background-color: #F8E858;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #A793FA;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #93FAF5;
+    padding: 0 20px 20px 20px;
+    border: 10px solid #000;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
